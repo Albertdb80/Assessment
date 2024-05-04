@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Accept All Cookies</name>
+   <tag></tag>
+   <elementGuidId>1650441e-0390-4292-ae00-ae3d0ba8645f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-accept-btn-handler</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='onetrust-accept-btn-handler']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cd28cc15-2038-49b6-bde3-56fdf35773ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-accept-btn-handler</value>
+      <webElementGuid>5bd4dcc1-b5cf-49d5-b507-96b8d280e110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept All Cookies</value>
+      <webElementGuid>0c352d87-afc7-48e4-a772-3de0c1272386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
+      <webElementGuid>b3ed6572-78c8-45db-bbf6-2849ab9bbc2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='onetrust-accept-btn-handler']</value>
+      <webElementGuid>35c0ea89-67c7-495b-9554-875d6d243f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-button-group']/button[2]</value>
+      <webElementGuid>d9175f95-6e33-4e51-88f1-33a6424ee6a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Settings'])[1]/following::button[1]</value>
+      <webElementGuid>edad7d2b-0cb0-461e-be5d-0eaa9e7ad289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy'])[1]/following::button[2]</value>
+      <webElementGuid>2a0a8c4d-aef7-4ab5-baef-7bdbc07a0444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Preference Center'])[1]/preceding::button[3]</value>
+      <webElementGuid>fd5580ce-5337-45b4-be23-0fff15d3a28f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More information'])[1]/preceding::button[3]</value>
+      <webElementGuid>b0928e2d-b3e8-45c0-8b08-599bfb001b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept All Cookies']/parent::*</value>
+      <webElementGuid>f1deab8a-a56a-44d8-833a-692f22bffa22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>7a1fec77-ef44-49a5-900b-1cb492807fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Accept All Cookies' or . = 'Accept All Cookies')]</value>
+      <webElementGuid>93e98498-4026-49e8-97af-3128b68ad6ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

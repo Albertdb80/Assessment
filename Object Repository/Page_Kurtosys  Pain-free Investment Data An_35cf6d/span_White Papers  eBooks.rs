@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_White Papers  eBooks</name>
+   <tag></tag>
+   <elementGuidId>9fd99f3f-8ea7-44b6-91ab-640473a6e018</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='kurtosys-menu-item-75710']/div/div/div/div/section/div/div/div/div/div/div/div/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b11c0147-eea0-4142-b8af-99079ac19b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-icon-list-text</value>
+      <webElementGuid>40573e8a-3bb3-4b05-982f-ad6577a5b75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>White Papers &amp; eBooks</value>
+      <webElementGuid>83683136-b7ed-4bfc-9c1d-cd521b8a3daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kurtosys-menu-item-75710&quot;)/div[@class=&quot;kurtosys-sub-mega-menu&quot;]/div[@class=&quot;elementor elementor-75716&quot;]/div[@class=&quot;elementor-inner&quot;]/div[@class=&quot;elementor-section-wrap&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-60b3358 elementor-section-full_width elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-row&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7ddaa72&quot;]/div[@class=&quot;elementor-column-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-widget-wrap&quot;]/div[@class=&quot;elementor-element elementor-element-de6a07d elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list&quot;]/div[@class=&quot;elementor-widget-container&quot;]/ul[@class=&quot;elementor-icon-list-items&quot;]/li[@class=&quot;elementor-icon-list-item&quot;]/a[1]/span[@class=&quot;elementor-icon-list-text&quot;]</value>
+      <webElementGuid>51b251fa-3be5-41c5-ad4b-6bfc1d3b8e49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='kurtosys-menu-item-75710']/div/div/div/div/section/div/div/div/div/div/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>2bcd82b3-4ef8-422b-b24c-d2e67aff1239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/following::span[1]</value>
+      <webElementGuid>d744b009-21fb-4083-b8c8-bfc7d8cf8f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::span[2]</value>
+      <webElementGuid>30eb08f7-76f8-4a1b-a77c-5b9a2fa266d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webinars'])[1]/preceding::span[1]</value>
+      <webElementGuid>1d2cd194-d8e1-474c-bdfd-b0c168497d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our clients'])[1]/preceding::span[2]</value>
+      <webElementGuid>4cafc5cc-142e-4fec-87b0-2a036fb22a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='White Papers &amp; eBooks']/parent::*</value>
+      <webElementGuid>4b6fd4f3-3eb0-472e-a882-b65331291c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/div/section/div/div/div/div/div/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>93a7ade4-2daf-4ef1-a4cd-ad30f716217d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'White Papers &amp; eBooks' or . = 'White Papers &amp; eBooks')]</value>
+      <webElementGuid>3fc63cd7-bad2-44f1-b22f-2e8f31bc0cfe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

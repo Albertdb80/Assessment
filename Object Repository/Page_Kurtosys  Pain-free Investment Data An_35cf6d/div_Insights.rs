@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Insights</name>
+   <tag></tag>
+   <elementGuidId>e91b01b6-9f37-4689-b368-ac51c4014b73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#kurtosys-menu-item-75710 > a.top-level-link.menu-image-title-after > div.kurtosys-menu-item-wrapper > div.kurtosys-menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='kurtosys-menu-item-75710']/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42523428-f47b-4957-8027-e4f54b7559fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kurtosys-menu-title</value>
+      <webElementGuid>21a4b723-0973-49af-b62f-e98d087ace3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Insights</value>
+      <webElementGuid>7b62f0a0-6cf3-4c79-a1c5-87b3e402eb9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kurtosys-menu-item-75710&quot;)/a[@class=&quot;top-level-link menu-image-title-after&quot;]/div[@class=&quot;kurtosys-menu-item-wrapper&quot;]/div[@class=&quot;kurtosys-menu-title&quot;]</value>
+      <webElementGuid>9a16be7b-f4e0-4455-9acb-f2017df75cac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='kurtosys-menu-item-75710']/a/div/div</value>
+      <webElementGuid>052f6ced-ceee-4999-bc1b-f0b073c946b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help center'])[1]/following::div[2]</value>
+      <webElementGuid>a099cc45-e2f0-41e5-9c89-08ef724871b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ISOC'])[1]/following::div[2]</value>
+      <webElementGuid>930a8f76-8dcc-41a4-96e6-acd437261ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::div[1]</value>
+      <webElementGuid>46f27d2c-15f5-49e1-a36a-e8f30935f577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div/div</value>
+      <webElementGuid>7a8dc43c-8baf-420a-abd1-8e02f40f3d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Insights' or . = 'Insights')]</value>
+      <webElementGuid>55637d48-a2d3-4836-b3e0-a7afc070cd37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
