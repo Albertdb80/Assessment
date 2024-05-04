@@ -37,19 +37,26 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_White Papers  Kur
 
 WebUI.click(findTestObject('Object Repository/Page_White Papers  Kurtosys/a_UCITS White Paper'))
 
-WebUI.setText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_First Name_18882_231669pi_18882_231669_1'), 
+WebUI.setText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_First Name_18882_231669pi_18882_231669'), 
     'Albert')
 
-WebUI.setText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_First Name_18882_231671pi_18882_231671_1'), 
+WebUI.setText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_First Name_18882_231671pi_18882_231671'), 
     'Test')
 
-WebUI.setText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_Email_18882_231675pi_18882_231675_1'), 
+WebUI.setText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_Email_18882_231675pi_18882_231675'), 
     'Test Inc')
 
-WebUI.setText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_Company_18882_231677pi_18882_231677_1'), 
+WebUI.setText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_Company_18882_231677pi_18882_231677'), 
     'Sales')
 
-WebUI.click(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_submit_1'))
+WebUI.click(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/input_submit'))
+
+'Validate all error messages'
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/p_Please correct the errors below'))
+
+'Validate all error messages'
+WebUI.verifyElementText(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/p_Please correct the errors below'), 
+    'Please correct the errors below:')
 
 'Validate all error messages'
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_UCITS White Paper  Kurtosys/p_This field is required'))

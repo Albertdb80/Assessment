@@ -6,12 +6,12 @@
    <elementGuidId>59b62d35-08d2-420c-b875-eac9dffc9bbc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#kurtosys-menu-item-75710 > a.top-level-link.menu-image-title-after > div.kurtosys-menu-item-wrapper > div.kurtosys-menu-title > span.menu-image-title</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='kurtosys-menu-item-75710']/a/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kurtosys-menu-item-75710 > a.top-level-link.menu-image-title-after > div.kurtosys-menu-item-wrapper > div.kurtosys-menu-title > span.menu-image-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>89ee4702-0fd2-4101-8ca6-5a6a04619363</webElementGuid>
+      <webElementGuid>bf068846-328f-42b9-8fbc-3678a8decee2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-image-title</value>
-      <webElementGuid>e2bef892-f341-4cfd-9fd0-971ff6087f17</webElementGuid>
+      <webElementGuid>47745669-2dd5-48b8-8e78-904bd1e92a9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Insights</value>
-      <webElementGuid>dc463a81-47d7-4dbf-ad43-0f817578b2f2</webElementGuid>
+      <webElementGuid>6d76f8ae-6720-40d4-bf81-e66861568e41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kurtosys-menu-item-75710&quot;)/a[@class=&quot;top-level-link menu-image-title-after&quot;]/div[@class=&quot;kurtosys-menu-item-wrapper&quot;]/div[@class=&quot;kurtosys-menu-title&quot;]/span[@class=&quot;menu-image-title&quot;]</value>
-      <webElementGuid>0f460ca9-c1ce-4eef-a913-5a84720a0ee0</webElementGuid>
+      <webElementGuid>4eebe8cc-a460-47ab-b5b5-ffb9bb4a005a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='kurtosys-menu-item-75710']/a/div/div/span</value>
-      <webElementGuid>2f1433ef-8634-46f9-8532-89fd155ecfb2</webElementGuid>
+      <webElementGuid>4aed6e34-b7ac-41a5-a7a0-ecb1e5a7ad4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help center'])[1]/following::span[1]</value>
-      <webElementGuid>b0e8d3b9-d47c-4a01-a3e8-6805d7f71ea8</webElementGuid>
+      <webElementGuid>e25725be-631b-4726-bd79-a9fcf60c7c94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ISOC'])[1]/following::span[2]</value>
-      <webElementGuid>7bd1e637-3161-40e2-ad72-990cb2157261</webElementGuid>
+      <webElementGuid>48b054f8-652f-4cb9-8b58-9321bdeb184b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::span[1]</value>
-      <webElementGuid>c5df3db2-2465-46ce-a2f7-9ac62f66c8db</webElementGuid>
+      <webElementGuid>a46f7ddc-0789-4bab-88b1-d0ea1ce0274c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/preceding::span[2]</value>
-      <webElementGuid>f251f955-e03d-4bd1-9ec1-cdb2991ae70c</webElementGuid>
+      <webElementGuid>bb9e0e38-77e5-46cb-96fb-16870ed5465a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Insights']/parent::*</value>
-      <webElementGuid>663f5a67-17dd-430f-844e-604583606f51</webElementGuid>
+      <webElementGuid>8e402213-b1a1-433e-99f3-3b5b73c6bc47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/div/div/span</value>
-      <webElementGuid>7ff3e015-d929-41a4-92ba-5957af054709</webElementGuid>
+      <webElementGuid>a535c13e-a1ed-44af-9621-f50ddc8db36a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Insights' or . = 'Insights')]</value>
-      <webElementGuid>d982ac23-4f6e-4ca0-9abb-15ce176a0eaa</webElementGuid>
+      <webElementGuid>7bd7d97b-f987-420c-9719-258fabd91896</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
